@@ -1,4 +1,4 @@
-# Gatherly — Event Management Website
+# Gatherly - Event Management Website
 
 Gatherly is a responsive event discovery and registration website created as a college web-designing assignment. Visitors can browse sample events, filter and search listings, view event details, and save a demo registration in their browser.
 
